@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      快速搭建个人博客
+title:      关于哈库的乱七八糟
 subtitle:   mud的小事儿，2020.05更新
 date:       2020-05-30
 author:     Violet
