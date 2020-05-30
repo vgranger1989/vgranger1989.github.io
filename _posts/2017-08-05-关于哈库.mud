@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      快速搭建个人博客
+subtitle:   mud的小事儿，2020.05更新
+date:       2020-05-30
+author:     Violet
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - mud
+    - 清华西游记
+    - 日常
+---
+
 今天去哈库的博客逛了逛，觉得还挺有意思的。我觉得他的人生非常精彩非常的有意义，一直在做自己想做的事情。
 
 我为什么会对这个人产生兴趣呢～
