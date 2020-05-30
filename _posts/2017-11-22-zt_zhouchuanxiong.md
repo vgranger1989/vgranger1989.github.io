@@ -1,7 +1,8 @@
 ---
 layout:    post
-title:     【blogspot转过来】记一位老艺术家周传雄
-date:      2020-11-22
+title:     记一位老艺术家周传雄
+subtitle:  blogspot老篇目存档
+date:      2017-11-22
 author:    Violet
 catalog:   true
 header-img: img/post-bg-mma-3.jpg
