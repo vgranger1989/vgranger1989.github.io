@@ -5,7 +5,6 @@ author:    Violet
 ---
 ### 2020.06.02 updated
 
-![](img/fuji/2020-06-02/2020_0206_10192100.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 ![](img/fuji/2020-06-02/2020_0206_10202100.jpg)
 ![](img/fuji/2020-06-02/2020_0301_14192700.jpg)
 ![](img/fuji/2020-06-02/2020_0510_18283700.jpg)
