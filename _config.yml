@@ -1,7 +1,7 @@
 # Site settings
 title: 问道于盲 | Violet's
 SEOTitle: Violet's 宅
-header-img: img/home-bg-art.jpg
+header-img: img/home-bg-roll.jpg
 email: 
 description: "新的一天，新的难过"
 url: "http://vgranger1989.github.io"          # your host, for absolute URL
@@ -10,7 +10,7 @@ github_repo: "https://github.com/vgranger1989/vgranger1989.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做个人吧！"
+sidebar-about-description: "红鲤鱼与绿鲤鱼与驴"
 sidebar-avatar: /img/SIGN11591838_128x128.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
